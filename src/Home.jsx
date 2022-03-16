@@ -9,7 +9,7 @@ const Home = () => {
 				<FaBars />
 			</button>
 			<button className='btn' onClick={openModal}>
-				show modal
+				show modal XD
 			</button>
 		</main>
 	);
